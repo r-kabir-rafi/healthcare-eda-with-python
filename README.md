@@ -2,6 +2,7 @@
 
 This project explores a synthetic healthcare dataset using Python for **Exploratory Data Analysis (EDA)**. The goal is to derive insights about patients, hospital stays, medical conditions, billing trends, and insurance providers through various visualizations and statistical summaries.
 
+![Image](https://github.com/user-attachments/assets/50a82da1-7427-419e-bf8e-c948cbe8b415)
 ---
 
 ## 🔧 Tools & Libraries Used
